@@ -6,3 +6,4 @@ This repository contains the Horiseon home page. Original files were modified to
 ![Application screenshot] (../assets/images/H-screenshot1.png)
 
 # Link
+[Horiseon-Homepage](https://stevenmly.github.io/week-one-Horiseon/)
